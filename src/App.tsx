@@ -669,6 +669,11 @@ const AppLayout = ({
                         </Checkbox>
                       </Col>
                       <Col xs={24} sm={12} md={8}>
+                        <Checkbox value="Rối loạn lưỡng cực">
+                          Rối loạn lưỡng cực
+                        </Checkbox>
+                      </Col>
+                      <Col xs={24} sm={12} md={8}>
                         <Checkbox value="Thiếu máu">
                           Thiếu máu / Thalassemia
                         </Checkbox>
